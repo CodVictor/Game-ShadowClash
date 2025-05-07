@@ -1,0 +1,10 @@
+=========== ADMIN ===========
+NOMBRE Alonso
+NICK administrator_001
+PASSWORD 12345678
+========== FIN ADMIN ==========
+=========== ADMIN ===========
+NOMBRE Victor
+NICK administrator_002
+PASSWORD 12345678
+========== FIN ADMIN ==========

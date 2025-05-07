@@ -16,14 +16,6 @@ WARNING: Asegúrate de tener configurado correctamente el entorno y las dependen
 
 ---
 
-## 📞 Contacto
-
-Para dudas o sugerencias, contacta a:
-
-- **Alonso Gutiérrez Sánchez (Jefe de Desarrollo)**: a.gutierrez.2023@alumnos.urjc.es
-
----
-
 ## 📑 Tabla de Contenidos
 
 - [Características](#características)

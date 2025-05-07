@@ -8,11 +8,11 @@ WARNING: Asegúrate de tener configurado correctamente el entorno y las dependen
 
 ## 👥 Equipo
 
-- **Víctor Hugo
-- **Rubén Ruiz
-- **Raúl Tejada
-- **Ramón Nieto 
-- **Alonso Gutiérrez
+- **Víctor Hugo**
+- **Rubén Ruiz**
+- **Raúl Tejada**
+- **Ramón Nieto**
+- **Alonso Gutiérrez**
 
 ---
 

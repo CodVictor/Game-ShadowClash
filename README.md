@@ -9,10 +9,10 @@ WARNING: Asegúrate de tener configurado correctamente el entorno y las dependen
 ## 👥 Equipo
 
 - **Víctor Hugo**
-- **Rubén Ruiz**
-- **Raúl Tejada**
-- **Ramón Nieto**
-- **Alonso Gutiérrez**
+- [**Rubén Ruiz**](https://github.com/ruben730)
+- [**Raúl Tejada**](https://github.com/raultejada24)
+- [**Ramón Nieto**](https://github.com/Ramoniet)
+- [**Alonso Gutiérrez**](https://github.com/Alon345)
 
 ---
 
@@ -138,3 +138,4 @@ Puedes apostar oro antes de cada combate, y el ganador se lleva todo el oro apos
 ---
 
 **ShadowClash**: Conquista la oscuridad y forja tu leyenda. ¡La lucha está a punto de comenzar! 💥
+
